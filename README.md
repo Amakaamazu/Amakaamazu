@@ -40,8 +40,7 @@ I am a dedicated Cybersecurity and Digital Forensics undergraduate student at Mi
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- LinkedIn: www.linkedin.com/in/ukamaka-amazuilo-4122b522b
+
 
 
