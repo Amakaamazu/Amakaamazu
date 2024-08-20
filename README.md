@@ -29,12 +29,12 @@ I am a dedicated Cybersecurity and Digital Forensics undergraduate student at Mi
 ### Smart Contract Vulnerability Analysis
 
 
-**Smart Contract Vulnerability Analysis** is a tool developed to identify common vulnerabilities in Ethereum smart contracts. Built with **Solidity and Python**. This project demonstrates my ability to ** **interact with smart contracts, analyze their code, and flag known issues****. You can check out the repository [here](https://github.com/Amakaamazu/smart-contract-vulnerability-analysis).
+**Smart Contract Vulnerability Analysis** is a tool developed to identify common vulnerabilities in Ethereum smart contracts. Built with **Solidity and Python**. This project demonstrates my ability to **interact with smart contracts, analyze their code, and flag known issues**. You can check out the repository [here](https://github.com/Amakaamazu/smart-contract-vulnerability-analysis).
 
 ### Vulnerability Scanner
 
 
-**Vulnerability Scanner** s a Python tool designed to scan websites for common vulnerabilities like SQL injection, XSS, or open ports. Built using **Python, networking, and web vulnerability libraries**. This project showcases my skills in **detecting and addressing potential security threats in web applications**. You can check out the repository [here](https://github.com/Amakaamazu/vulnerability-scanner).
+**Vulnerability Scanner** is a Python tool designed to scan websites for common vulnerabilities like SQL injection, XSS, or open ports. Built using **Python, networking, and web vulnerability libraries**. This project showcases my skills in **detecting and addressing potential security threats in web applications**. You can check out the repository [here](https://github.com/Amakaamazu/vulnerability-scanner).
 
 ## Get in Touch 📬
 
