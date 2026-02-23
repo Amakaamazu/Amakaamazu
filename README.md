@@ -30,6 +30,9 @@ I am a dedicated Cybersecurity and Digital Forensics undergraduate student at Mi
 
 **Pac-Man Game** is a Python implementation of the classic arcade game using **Pygame**. This project demonstrates my ability to **design and implement game mechanics, AI-controlled ghost behavior, collision detection, scoring systems, and interactive sound effects**. It showcases skills in **Python OOP, Pygame development, and retro-style game design**. You can check out the repository [here](https://github.com/Amakaamazu/PacMan-Game).
 
+### Crypto Portfolio Risk Analyzer
+
+**Crypto Portfolio Risk Analyzer** is a Python tool that fetches 1 year of cryptocurrency price data and computes key financial risk metrics including volatility, annualized returns, and the Sharpe Ratio. Built with **Python, Pandas, and Matplotlib**, this project demonstrates my ability to **analyze financial data, generate risk reports, and visualize crypto market performance**. You can check out the repository [here](https://github.com/Amakaamazu/crypto-portfolio-risk-analyzer).
 
 ### FinTech Fraud Detection System
 **FinTech Fraud Detection System** is an end-to-end machine learning pipeline that detects fraudulent credit card transactions using the Kaggle credit card fraud dataset. Built with **Python, scikit-learn, and imbalanced-learn**. This project demonstrates my ability to **engineer features from financial data, address severe class imbalance (0.17% fraud rate) with SMOTE, train and evaluate multiple ML models, and visualise results through confusion matrices and ROC curves**. You can check out the repository [here](https://github.com/Amakaamazu/fintech-fraud-detection).
