@@ -26,6 +26,9 @@ I am a dedicated Cybersecurity and Digital Forensics undergraduate student at Mi
 
 ## Featured Projects 💻
 
+### FinTech Fraud Detection System
+**FinTech Fraud Detection System** is an end-to-end machine learning pipeline that detects fraudulent credit card transactions using the Kaggle credit card fraud dataset. Built with **Python, scikit-learn, and imbalanced-learn**. This project demonstrates my ability to **engineer features from financial data, address severe class imbalance (0.17% fraud rate) with SMOTE, train and evaluate multiple ML models, and visualise results through confusion matrices and ROC curves**. You can check out the repository [here](https://github.com/Amakaamazu/fintech-fraud-detection).
+
 ### Smart Contract Vulnerability Analysis
 
 
