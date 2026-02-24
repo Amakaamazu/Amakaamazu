@@ -40,6 +40,9 @@ I am a dedicated Cybersecurity and Digital Forensics undergraduate student at Mi
 ### FinTech Fraud Detection System
 **FinTech Fraud Detection System** is an end-to-end machine learning pipeline that detects fraudulent credit card transactions using the Kaggle credit card fraud dataset. Built with **Python, scikit-learn, and imbalanced-learn**. This project demonstrates my ability to **engineer features from financial data, address severe class imbalance (0.17% fraud rate) with SMOTE, train and evaluate multiple ML models, and visualise results through confusion matrices and ROC curves**. You can check out the repository [here](https://github.com/Amakaamazu/fintech-fraud-detection).
 
+### Financial OSINT Risk Monitor
+**Financial OSINT Risk Monitor** is a Python fintech tool that simulates an open-source intelligence (OSINT) pipeline for monitoring the reputational risk of public companies in real time. Built with **Python, NewsAPI, NLTK VADER, and Matplotlib**, this project demonstrates my ability to **fetch and process live news headlines via REST APIs, perform NLP-based sentiment analysis, classify coverage as positive, neutral, or negative, compute a weighted Reputational Risk Score, and visualise sentiment distribution through dual-panel charts**. It showcases skills in **Python modular design, applied NLP, financial risk analysis, secure API key management, and data visualisation for stakeholder reporting**. You can check out the repository [here](https://github.com/Amakaamazu/financial-osint-risk-monitor).
+
 ### Smart Contract Vulnerability Analysis
 
 
