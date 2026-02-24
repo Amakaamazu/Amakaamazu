@@ -1,15 +1,17 @@
 # Hi there, I'm Ukamaka Christabel Amazuilo! 👋
 
 
-## About Me 🚀
+## About Me 👩‍💻
 
-I am a dedicated Cybersecurity and Digital Forensics undergraduate student at Middlesex University Mauritius, with a profound interest in technology and problem-solving. My journey in the field has equipped me with expertise in programming languages like C, Python, and SQL, along with valuable project management skills.
+I am a Cybersecurity and Digital Forensics undergraduate at Middlesex University Mauritius with a strong interest in financial technology, secure system design, and digital safety.
 
-- 🌱 Currently learning: Currently expanding my knowledge in Network Traffic Analysis and Security Training.
-- 🔭 Working on: Actively honing my skills in Vunlerability Management.
-- 🌍 Fluent in English, Chinese and Igbo.
-- 📫 How to reach me:  amazuiloukamaka@gmail.com
-- ⚡ Fun fact: I love exploring diverse cuisines and music genres!
+I enjoy building practical tools at the intersection of security, data, and human behavior — especially systems that improve trust in digital platforms. My work explores how money moves, how systems get attacked, and how they can be designed more responsibly.
+
+- 🌱 Currently learning: Network Traffic Analysis, Security Monitoring, and Secure Authentication Design  
+- 🔭 Current focus: Vulnerability Management and Applied Cybersecurity Research  
+- 🌍 Languages: English, Igbo, and Conversational Chinese  
+- 📫 Contact: **amazuiloukamaka@gmail.com**  
+- ⚡ Personal interest: Founder of *Dear Belle*, a reflective writing initiative focused on creating safe digital spaces for young women  
 
 ## My Skills 🧠
 
@@ -23,6 +25,19 @@ I am a dedicated Cybersecurity and Digital Forensics undergraduate student at Mi
 ![Project Management](https://img.shields.io/badge/-Project%20Management-333333?style=flat-square&logo=project-management&logoColor=white)
 ![UI/UX Design](https://img.shields.io/badge/-UI/UX%20Design-4FC08D?style=flat-square&logo=adobe&logoColor=white)
 
+## What You'll Find Here 🚀
+
+This GitHub showcases practical cybersecurity and financial technology projects, including:
+
+- 🔐 Secure Digital Wallet Architecture  
+- 💳 Fraud Detection using Machine Learning  
+- 📊 Financial Risk Analysis Tools  
+- 🌐 OSINT-Based Risk Monitoring Systems  
+- 🛡️ Web Vulnerability Scanners  
+- 🔎 Smart Contract Security Analysis  
+- 🎮 Creative Software Projects (like a Python-based Pac-Man game)
+
+Each project is designed to translate theory into working systems while deepening my understanding of secure and ethical technology.
 
 ## Featured Projects 💻
 
@@ -32,6 +47,16 @@ I am a dedicated Cybersecurity and Digital Forensics undergraduate student at Mi
 
 ### Secure Digital Wallet Simulation
 **Secure Digital Wallet Simulation** is a Python fintech project that replicates the core security architecture of a digital payment wallet, similar conceptually to PayPal or M-Pesa. Built with **Python, SQLite, and the cryptography library**, this project demonstrates my ability to **design secure registration and login systems, hash passwords using PBKDF2-HMAC-SHA256, encrypt sensitive user data at rest with Fernet AES, enforce atomic transactions to guarantee fund integrity, implement brute-force lockout after repeated failed login attempts, flag suspicious high-value transfers, and maintain a complete transaction audit trail**. It showcases skills in **Python backend engineering, applied cryptography, fintech security design, and database-driven application development**. You can check out the repository [here](https://github.com/Amakaamazu/secure-digital-wallet).
+
+### SafeSpace Digital Safety Checker
+**SafeSpace Digital Safety Checker** is a Python GUI application designed to help users understand and evaluate their public digital exposure using open-source intelligence (OSINT) techniques. Built with **Python, Tkinter, and REST API integration**, this project demonstrates my ability to design user-facing security tools that combine technical analysis with human-centered cybersecurity awareness.
+
+The application allows users to input an email address and username, checks for exposure in public data breaches, analyzes username reuse across major platforms, calculates a Digital Exposure Score, and provides personalized safety recommendations. The system includes a color-coded risk indicator and a structured recommendation engine to translate technical findings into practical guidance.
+
+This project showcases skills in **API integration, OSINT techniques, GUI development, risk scoring logic, modular Python architecture, and applied cybersecurity education**. It reflects my interest in building secure systems that protect users and promote responsible digital behavior.
+
+You can check out the repository [here](https://github.com/Amakaamazu/safespace-digital-safety-checker).
+
 
 ### Crypto Portfolio Risk Analyzer
 
