@@ -30,6 +30,9 @@ I am a dedicated Cybersecurity and Digital Forensics undergraduate student at Mi
 
 **Pac-Man Game** is a Python implementation of the classic arcade game using **Pygame**. This project demonstrates my ability to **design and implement game mechanics, AI-controlled ghost behavior, collision detection, scoring systems, and interactive sound effects**. It showcases skills in **Python OOP, Pygame development, and retro-style game design**. You can check out the repository [here](https://github.com/Amakaamazu/PacMan-Game).
 
+### Secure Digital Wallet Simulation
+**Secure Digital Wallet Simulation** is a Python fintech project that replicates the core security architecture of a digital payment wallet, similar conceptually to PayPal or M-Pesa. Built with **Python, SQLite, and the cryptography library**, this project demonstrates my ability to **design secure registration and login systems, hash passwords using PBKDF2-HMAC-SHA256, encrypt sensitive user data at rest with Fernet AES, enforce atomic transactions to guarantee fund integrity, implement brute-force lockout after repeated failed login attempts, flag suspicious high-value transfers, and maintain a complete transaction audit trail**. It showcases skills in **Python backend engineering, applied cryptography, fintech security design, and database-driven application development**. You can check out the repository [here](https://github.com/Amakaamazu/secure-digital-wallet).
+
 ### Crypto Portfolio Risk Analyzer
 
 **Crypto Portfolio Risk Analyzer** is a Python tool that fetches 1 year of cryptocurrency price data and computes key financial risk metrics including volatility, annualized returns, and the Sharpe Ratio. Built with **Python, Pandas, and Matplotlib**, this project demonstrates my ability to **analyze financial data, generate risk reports, and visualize crypto market performance**. You can check out the repository [here](https://github.com/Amakaamazu/crypto-portfolio-risk-analyzer).
