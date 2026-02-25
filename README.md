@@ -5,7 +5,7 @@
 
 I am a Cybersecurity and Digital Forensics undergraduate at Middlesex University Mauritius with a strong interest in financial technology, secure system design, and digital safety.
 
-I enjoy building practical tools at the intersection of security, data, and human behavior — especially systems that improve trust in digital platforms. My work explores how money moves, how systems get attacked, and how they can be designed more responsibly.
+I enjoy building practical tools at the intersection of security, data, and human behavior, especially systems that improve trust in digital platforms. My work explores how money moves, how systems get attacked, and how they can be designed more responsibly.
 
 - 🌱 Currently learning: Network Traffic Analysis, Security Monitoring, and Secure Authentication Design  
 - 🔭 Current focus: Vulnerability Management and Applied Cybersecurity Research  
@@ -64,6 +64,10 @@ You can check out the repository [here](https://github.com/Amakaamazu/safespace-
 
 ### FinTech Fraud Detection System
 **FinTech Fraud Detection System** is an end-to-end machine learning pipeline that detects fraudulent credit card transactions using the Kaggle credit card fraud dataset. Built with **Python, scikit-learn, and imbalanced-learn**. This project demonstrates my ability to **engineer features from financial data, address severe class imbalance (0.17% fraud rate) with SMOTE, train and evaluate multiple ML models, and visualise results through confusion matrices and ROC curves**. You can check out the repository [here](https://github.com/Amakaamazu/fintech-fraud-detection).
+
+### Haven by Dear Belle - Private Reflection & Support Navigator
+
+**Haven by Dear Belle** is a privacy-focused local desktop application designed to give youth a safe, encrypted space to process personal reflections and access curated mental health and safety resources. Built with **Python, Tkinter, SQLite, and the cryptography library**, this project demonstrates my ability to **design human-centered security systems, implement Fernet AES-128 symmetric encryption for local data protection, build real-time emergency keyword detection with immediate crisis resource routing, architect a modular GUI with calm, accessibility-informed design, generate anonymous entry IDs with timestamped encrypted storage, and curate category-matched support resources across academic, financial, emotional, relational, and safety domains**. It showcases skills in **Python OOP, applied cryptography, GUI development, human-centred system design, ethical data handling, and building trauma-informed tools that prioritise user privacy and well-being**. You can check out the repository [here](https://github.com/Amakaamazu/Haven-by-Dear-Belle.git).
 
 ### Financial Literacy Simulator
 **Financial Literacy Simulator** is a Python desktop application that simulates personal finance scenarios to help users understand saving, budgeting, and compound interest. Built with **Python, Tkinter, and Matplotlib**, this project demonstrates my ability to **model monthly savings capacity and compound interest growth, simulate debt accumulation when expenses exceed income, support 12 international currencies, toggle between interest-bearing and simple savings modes, implement a miscellaneous expense buffer to reflect real-world budgeting, generate spending analysis warnings based on the 50/30/20 rule, estimate time-to-goal with and without compounding, and present results through an embedded live chart and plain-English financial interpretation**. It showcases skills in **Python OOP, GUI development with Tkinter, financial modelling, data visualisation, modular software architecture, and designing educational tools that make personal finance accessible to everyday users**. You can check out the repository [here](https://github.com/Amakaamazu/Financial-Literacy-Simulator.git).
